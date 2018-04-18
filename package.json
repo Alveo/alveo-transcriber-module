@@ -1,6 +1,6 @@
 {
-  "name": "@davidlirving/alveo-transcriber-module",
-  "version": "0.1.5",
+  "name": "@alveo-vt/angular-transcriber",
+  "version": "0.1.0",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
